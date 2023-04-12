@@ -92,3 +92,6 @@ server.sendmail(FROM, TO, msg.as_string())  # Send the email.
 print("Email Sent...")
 
 server.quit()  # Quit from the server afterwards.
+
+
+# ++EAJ++
